@@ -1,4 +1,4 @@
-# futureECommerce :rocket:
+# futureECommerce :rocket: :earth_americas:
 A space travel app.
 
 <p align="center">
