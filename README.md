@@ -22,15 +22,14 @@ futureECommerce is a front-end development project of an imaginary web-desktop-f
 
 ### Home page
 
-
 <p align="center">
-<img height="400px" src="https://github.com/Meira-JH/4eddit/blob/master/src/img/localhost_3000_(iPad)%20(4).png"/>
+<img height="500px" src="https://github.com/Meira-JH/futureECommerce/blob/master/src/Img/print1.png"/>
 </p>
 
 ### Chart
 
 <p align="center">
-<img height="400px" src="https://github.com/Meira-JH/4eddit/blob/master/src/img/localhost_3000_(iPad)%20(2).png"/>
+<img height="500px" src="https://github.com/Meira-JH/futureECommerce/blob/master/src/Img/print2.png"/>
 </p>
 
 ## Running the app
