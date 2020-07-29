@@ -50,6 +50,14 @@ Execute the application:
 npm start 
 ```
 
+
+## Code architecture
+This code was designed to work only with React.js. The whole communication is between class-based components and happens through props flow.
+
+:small_blue_diamond: **components**: folder containing React components;
+
+:small_blue_diamond: **App.js**: parent component that hosts the majority of the children and concentrates props flow and treatment (as for filter methods).
+
 ## Contributing
 This was a collective effort imagined, executed and revised by [Cazuza Barberino](https://github.com/cazuzabarberino), [Mario Luz](https://github.com/MarioLuzz) and [me](https://github.com/Meira-JH). 
 
