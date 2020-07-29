@@ -2,10 +2,10 @@
 A space travel app.
 
 <p align="center">
-<img src="https://github.com/Meira-JH/4eddit/blob/master/src/img/logo.png"/>
+<img height="300px" src="https://github.com/Meira-JH/futureECommerce/blob/master/src/Img/via-lactea.jpg"/>
 </p>
 
-4eddit is a front-end development project of an imaginary web-desktop-first responsive application, as an activity result of Labenu's full-stack development course. This was a collective effort imagined, executed and revised by [Ana Kempfer](https://github.com/skempfer) and [me](https://github.com/Meira-JH).
+futureECommerce is a front-end development project of an imaginary web-desktop-first responsive application, as an activity result of Labenu's full-stack development course. This was a collective effort imagined, executed and revised by [Cazuza Barberino](https://github.com/cazuzabarberino), [Mario Luz](https://github.com/MarioLuzz) and [me](https://github.com/Meira-JH).
 
 
 ## Tools and technologies
@@ -16,40 +16,21 @@ A space travel app.
 
 ![React Lib](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/JSLibReactJS.png)
 
-![Dev tools](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/tools.png) 
-
-![Layout tools](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/layout.png)
-
 ## The app
 
 [Deploy]()
 
-[API Documentation](https://documenter.getpostman.com/view/674905/SzYXXKEE?version=latest#08adf102-4d87-4f70-9dc3-b3c321b29739)
-
-### Login page
+### Home page
 
 
 <p align="center">
 <img height="400px" src="https://github.com/Meira-JH/4eddit/blob/master/src/img/localhost_3000_(iPad)%20(4).png"/>
 </p>
 
-### Sign up page
+### Chart
 
 <p align="center">
 <img height="400px" src="https://github.com/Meira-JH/4eddit/blob/master/src/img/localhost_3000_(iPad)%20(2).png"/>
-</p>
-
-
-### Feed page
-
-<p align="center">
-<img height="400px" src="https://github.com/Meira-JH/4eddit/blob/master/src/img/localhost_3000_(iPad).png"/>
-</p>
-
-### Post and comments
-
-<p align="center">
-<img height="400px" src="https://github.com/Meira-JH/4eddit/blob/master/src/img/localhost_3000_feed(iPad).png"/>
 </p>
 
 ## Running the app
@@ -71,7 +52,7 @@ npm start
 ```
 
 ## Contributing
-This was a collective effort imagined, executed and revised by [Ana Kempfer](https://github.com/skempfer) and [me](https://github.com/Meira-JH). Logo was provided by Labenu's staff.
+This was a collective effort imagined, executed and revised by [Cazuza Barberino](https://github.com/cazuzabarberino), [Mario Luz](https://github.com/MarioLuzz) and [me](https://github.com/Meira-JH).
 
 <p align="center">
 <img src="https://uploads-ssl.webflow.com/5e790d30d198385b09366d8f/5eb17dfd4a07be86d2b8951e_Labenu_principal_slogan.png"/>
