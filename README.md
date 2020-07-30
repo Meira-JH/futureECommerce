@@ -5,7 +5,7 @@ A space travel app.
 <img height="300px" src="https://github.com/Meira-JH/futureECommerce/blob/master/src/Img/via-lactea.jpg"/>
 </p>
 
-futureECommerce is a front-end development project of an imaginary web-desktop-first responsive application, as an activity result of Labenu's full-stack development course. It consists in a simplified version of web page for space travel sales. This was a collective effort imagined, executed and revised by [Cazuza Barberino](https://github.com/cazuzabarberino), [Mario Luz](https://github.com/MarioLuzz) and [me](https://github.com/Meira-JH).
+futureECommerce is a front-end development project of an imaginary web-desktop-first responsive application, as an activity result of Labenu's full-stack development course. It consists in a simplified version of web page for space travel sales. This was a collective effort imagined, executed and revised by [Cazuza Barberino](https://github.com/cazuzabarberino), [Mario Luz](https://github.com/MarioLuzz), Viviane Luz and [me](https://github.com/Meira-JH).
 
 
 ## Tools and technologies :wrench:
