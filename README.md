@@ -10,11 +10,24 @@ futureECommerce is a front-end development project of an imaginary web-desktop-f
 
 ## Tools and technologies :wrench:
 
-![Node.js environment](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/EnvironmentNodejs.png)
+<p align="center">
+<img width="35px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/redux.png"/>
+<img width="35px" src="https://raw.githubusercontent.com/jalbertsr/logo-badge-images/master/img/react_logo.png"/>
+<img width="35px" src="http://3con14.biz/code/_data/js/intro/js-logo.png"/>
+<img width="35px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/jest.png"/>
+<img width="35px" src="https://github.com/MarioTerron/logo-images/blob/master/logos/npm.png"/>
+</p>
 
-![Languages JS CSS HTML](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/languages.png)
 
-![React Lib](https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/JSLibReactJS.png)
+<p>
+<img height="22px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/EnvironmentNodejs.png"/>
+</p>
+<p>
+<img height="22px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/languages.png"/>
+</p>
+<p>
+<img height="22px" src="https://github.com/Meira-JH/futureEats/blob/master/futureEats/src/imgs/JSLibReactJS.png"/>
+</p>
 
 ## The app :iphone:
 
