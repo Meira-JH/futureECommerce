@@ -48,7 +48,7 @@ futureECommerce is a front-end development project of an imaginary web-desktop-f
 On your terminal, type:
 
 ```
-git clone 
+git clone https://github.com/Meira-JH/futureECommerce
 ```
 
 Install dependencies:
